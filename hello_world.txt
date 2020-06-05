@@ -1,7 +1,7 @@
 Lorem ipsum dolor sit amet,
 consectetuer adipiscing elit.
-AeMaynean commodo ligula eget dolor.
-AeMaynean massa.
+commodo ligula eget dolor.
+massa.
 Cum natoque penatibus et magnis dis parturient montes,
 nascetur ridiculus mus latin.
 Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem.
